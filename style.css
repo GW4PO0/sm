@@ -98,7 +98,7 @@
         width: 49%;
         position: relative;
         margin-left: 50px;
-        
+      
     }
     .hero-content h1{
         background: linear-gradient(#FFBF78, #FF7D29);
@@ -115,6 +115,7 @@
         line-height: 24px;
     }
     .hero-content button {
+
         background: linear-gradient(#ca873a, #FF7D29);
   border: none; 
   color: white; 
@@ -127,7 +128,9 @@
   cursor: pointer; 
   border-radius: 8px; 
   transition: background-color 0.3s ease; 
+
 }
+
 
 .button:hover {
   background-color: #45a049; 
@@ -487,12 +490,12 @@
             line-height: 50px;
             margin-top: -100px;
         }
-    }
+
     .hero-content button{
        position: relative;
        left: 40px;
     }
-
+}
     @media (max-width: 600px){
         .header-main {
             height: 100px;
