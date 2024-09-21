@@ -261,6 +261,7 @@
         color: rgb(219, 145, 42);
         font-size: 26px;
         bottom: 50px;
+        top: 10px;
         left: 50%;
         transform: translateX(-50%);
         position: absolute;
@@ -273,6 +274,7 @@
         font-weight: 700;
         color: white;
         font-size: 16px;
+        top: 70px;
         bottom: 0;
         left: 50%;
         transform: translateX(-50%);
